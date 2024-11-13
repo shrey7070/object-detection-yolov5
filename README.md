@@ -64,10 +64,6 @@ python  main.py
 
 • [OpenCV](https://opencv.org/) - Used for image and video manipulation.
 
-# **Authors**
-
-• **Shrey Soni** - [Link](https://github.com/shrey7070)
-
 # **Acknowledgments**
 
 • Ultralytics for the awesome YOLOv5 model
